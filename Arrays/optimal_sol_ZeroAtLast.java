@@ -1,6 +1,8 @@
 class optimal_sol_ZeroAtLast
 {
 
+        //optimal solution for place all the zeros at the last in array.
+
     public static int[] moveZeros(int arr[] , int n)
     {
         int j=-1;
@@ -33,7 +35,7 @@ class optimal_sol_ZeroAtLast
 
     }
 
-    //optimal solution for place all the zeros at the last in array.
+
     public static void main(String[] args)
     {
         int n=10;
